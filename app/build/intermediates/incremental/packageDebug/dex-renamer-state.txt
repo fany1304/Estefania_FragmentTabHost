@@ -1,0 +1,7 @@
+#Sun Oct 09 16:47:57 CEST 2016
+base.0=C\:\\Users\\Fany\\AndroidStudioProjects\\FragmentTabHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd4d425089ee5d3b5f70e2cd34b5cc44c2ab5374
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Fany\\AndroidStudioProjects\\FragmentTabHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f36bd2f6f3854c0c6cdd8fb47c80523117eaad83\\classes.dex
+base.1=C\:\\Users\\Fany\\AndroidStudioProjects\\FragmentTabHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f36bd2f6f3854c0c6cdd8fb47c80523117eaad83
+file.0=C\:\\Users\\Fany\\AndroidStudioProjects\\FragmentTabHost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd4d425089ee5d3b5f70e2cd34b5cc44c2ab5374\\classes.dex
